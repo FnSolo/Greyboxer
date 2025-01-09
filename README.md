@@ -1,5 +1,5 @@
 # Mesh-Extruder-Blender-Unity-
-A grid based line drawer on ground plane in Blender and a raw one for Unity, currently, potential roadmap is to make a full fledged free low-poly make it quick solution.
+A grid based line drawer on ground plane in Blender and a raw one for Unity, currently.
 In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulate and tris to quad later).
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
