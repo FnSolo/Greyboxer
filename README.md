@@ -18,5 +18,6 @@ The May Be Roadmap:
 5. Proper Auto-UV unwrapping in the process
 6. All features are toggleable up to the state of classic simplest version
 
+
 Extra:
 7. You are dead after fixing AI bugs and fixing Python identations, because your VSC flickers, as is it does the Upscayl when you upscaled your image.
