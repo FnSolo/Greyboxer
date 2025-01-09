@@ -11,6 +11,9 @@ Blender version features:
 4. Placing dots while not looking topdown or downtop is not recommended.
 5. Etc?
 
+Issues:
+1. You can't go less than 10 mm in a grid, modify script self or AI for other improvements.
+
 The May Be Roadmap:
 1. Make it a full fledge make a low-poly asset for games thing
 2. Color in one click, texture draw whole separated meshes.
