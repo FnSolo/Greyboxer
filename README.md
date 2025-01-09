@@ -20,4 +20,5 @@ The May Be Roadmap:
 
 
 Extra:
+
 7. You are dead after fixing AI bugs and fixing Python identations, because your VSC flickers, as is it does the Upscayl when you upscaled your image.
