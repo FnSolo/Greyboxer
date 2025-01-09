@@ -35,4 +35,4 @@ Now contains 3 Branches (can a branch be installed by link?):
 
 1. Whole thing
 2. Only Blender
-3. Only Unity
+3. Only Unity.
