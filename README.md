@@ -12,7 +12,7 @@ Blender version features:
 5. Etc?
 
 Issues:
-1. You can't go less than 10 mm in a grid, modify script self or AI for other improvements.
+1. You can't go less than 10 mm in a grid in Blender one, modify script self or AI for other improvements.
 
 The May Be Roadmap:
 1. Make it a full fledge make a low-poly asset for games thing
