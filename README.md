@@ -17,8 +17,7 @@ The May Be Roadmap:
 3. Separate meshes more easily than default solution
 4. Make a solid mesh back easily
 5. Proper Auto-UV making unwrapping in the process
-6. 
-7. All features are toggleable up to the state of classic simplest version
+6. All features are toggleable up to the state of classic simplest version
 
 
 Extra:
