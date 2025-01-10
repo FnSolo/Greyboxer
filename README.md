@@ -16,6 +16,11 @@ Blender main how to use:
 4. When done close shape on first point or with RMB
 5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
 
+
+Unity how to use:
+1. Put the script anywhere in assets folder
+2. Look upper - Tools - Mesh Extruder
+
 Blender screenshots (the toilet was an accident, don't blame me):
 
 With show normals:
@@ -47,6 +52,9 @@ Tris to quads 180 180:
 -
 Unity version screenshot that pretty much covers its current state:
 ![image](https://github.com/user-attachments/assets/dd4ba2c3-4421-4d66-a031-aa04d5dc2d61)
+
+More recent screenshot of same version:
+![image](https://github.com/user-attachments/assets/d825bb8d-eb41-48eb-908a-199a8ef31fa7)
 
 
 
