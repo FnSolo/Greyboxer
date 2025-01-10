@@ -4,9 +4,17 @@ In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulat
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
-Blender instructions:
+Blender install instructions:
 1. Download the zip
-2. Open Blender - Edit - Preferences - Addons - Click the \/ - Install from disk - Select zip - Install from disk button
+2. Open Blender - Edit - Preferences - Addons - Click the \/ (its upper right) - Install from disk - Select Blender Mesh Extruder.zip - Install from disk button
+3. Press N or arrow to open default Sidebar (on right) - click Tool - it is below "Workspace" if no other addons.
+
+Blender main how to use:
+1. Press Z or -Z on your axis or hotkey Numpad 7
+2. Press Draw Shape
+3. Start placing dots that will connect sequentially.
+4. When done close shape on first point or with RMB
+5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
 
 Blender screenshots (the toilet was an accident, don't blame me):
 
