@@ -24,9 +24,18 @@ The May Be Roadmap:
 6. All features are toggleable up to the state of classic simplest version
 
 
+
+
+
+
+
+
+
+
+
 Extra:
 
-You are dead after fixing AI bugs and fixing Python identations, because your VSC flickers, as is it does the Upscayl when you upscaled your image.
+You are dead after fixing AI bugs and fixing Python identations, because your VSC flickers, as is it does the Upscayl when you upscaled your image. (Updated Windows 10, fixed?)
 
 P.S.
 
