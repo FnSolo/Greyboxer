@@ -145,7 +145,7 @@ P.S.
 
 Should i separate Unity version so it can be installed via github link thing? Probably there is no sense in doing so with just 1 script.
 
-Now contains 3 Branches (ReadMe in others not updated) (can a branch be installed by link?):
+Contains 3 Branches (can a branch be installed by link?):
 -
 1. Whole thing
 2. Only Blender
