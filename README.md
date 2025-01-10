@@ -5,7 +5,7 @@ A grid based line drawer *on ground plane in Blender* and a *raw one in 2D Windo
 In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulate and tris to quad later).
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
--
+
 
 Blender install instructions:
 -
