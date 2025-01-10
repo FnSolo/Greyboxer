@@ -100,18 +100,12 @@ Blender Issues:
 3. You can't use UI if not closed the shape or cancelled it by 'Escape'.
 4. You can't undo lines like in Unity (and redo too)
 
--
--
-
 Potential Unity Issues:
 -
 1. Yes, normals are madly flipped, especially in sharp meshes.
 2. Geometry is worse than Blender one, if it was triangulated (?)
 3. (Not checked) Can make redundant vertice in the same spot on closing as it was in early Blender version
 4. Will conflict with same name script, cause doesn't have a namespace.
-
--
--
 
 The May Be Roadmap:
 -
@@ -122,10 +116,6 @@ The May Be Roadmap:
 5. Make a solid mesh back easily
 6. Proper Auto-UV making unwrapping in the process
 7. All features are toggleable up to the state of classic simplest version
-
--
--
--
 
 Thoughts (This Last section is useless):
 -
