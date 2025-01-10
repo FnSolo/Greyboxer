@@ -22,10 +22,13 @@ N-Gon topology in the end (it is non-smooth shaded another toilet):
 ![image](https://github.com/user-attachments/assets/216179f3-cd2b-47ea-97d6-9fcb07305f62)
 
 After manual steps:
+
 Triangulate:
 ![image](https://github.com/user-attachments/assets/4fa38311-ebb0-4f13-809b-920a50026946)
+
 Tris to quads 40 40:
 ![image](https://github.com/user-attachments/assets/837db4d1-a194-4931-a0a8-8f41f894db89)
+
 Tris to quads 180 180:
 ![image](https://github.com/user-attachments/assets/a8d007e0-ac85-4276-806b-8ac11be5e253)
 
