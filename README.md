@@ -4,6 +4,7 @@ In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulat
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
+Using Blender 4.0.0+
 Blender version features:
 1. Grid based dot placing on ground plane that automatically turn to edges
 2. Merged in the end with LMB near last point or just by pressing RMB if there is at least 2 dots already
