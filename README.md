@@ -30,7 +30,7 @@ Unity how to use:
 4. RMB undo last line (it can't redo it back)
 5. Close the and generate the shape by pressing first point or generate button
 
-Blender screenshots (the toilet was an accident, don't blame me):
+Blender screenshots:
 -
 
 With show normals:
