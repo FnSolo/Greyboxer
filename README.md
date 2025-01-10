@@ -25,7 +25,7 @@ Blender main how to use:
 Unity how to use:
 -
 1. Put the script anywhere in assets folder
-2. Look upper - Tools - Mesh Extruder
+2. Look upper - Tools - Simple Mesh Extruder
 3. No grid, draw by hand, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
 4. RMB undo last line (it can't redo it back)
 5. Close the and generate the shape by pressing first point or generate button
@@ -107,6 +107,7 @@ Potential Unity Issues:
 1. Yes, normals are madly flipped, especially in sharp meshes.
 2. Geometry is worse than Blender one, if it was triangulated (?)
 3. (Not checked) Can make redundant vertice in the same spot on closing as it was in early Blender version
+4. Will conflict with same name script, cause doesn't have a namespace.
 
 -
 -
