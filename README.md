@@ -6,6 +6,7 @@ Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
 
 Blender screenshots (the toilet was an accident, don't blame me):
+With show normals:
 ![image](https://github.com/user-attachments/assets/7d8e3fbd-27de-4878-933d-d6177df96494)
 
 ![image](https://github.com/user-attachments/assets/47a36db9-1227-4371-94f6-fdc9d402768a)
@@ -13,6 +14,17 @@ Blender screenshots (the toilet was an accident, don't blame me):
 ![image](https://github.com/user-attachments/assets/5a676bec-93c8-436a-8dfe-dbd212ecdcdd)
 
 ![image](https://github.com/user-attachments/assets/2152ae94-229c-4dfb-a707-31dae9172805)
+N-Gon topology in the end (it is different toilet):
+
+![image](https://github.com/user-attachments/assets/216179f3-cd2b-47ea-97d6-9fcb07305f62)
+
+After manual steps:
+Triangulate:
+![image](https://github.com/user-attachments/assets/4fa38311-ebb0-4f13-809b-920a50026946)
+Tris to quads 40 40:
+![image](https://github.com/user-attachments/assets/837db4d1-a194-4931-a0a8-8f41f894db89)
+
+
 
 
 Using Blender 4.0.0+.
