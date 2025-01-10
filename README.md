@@ -4,6 +4,17 @@ In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulat
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
+
+Blender screenshots (the toilet was an accident, don't blame me):
+![image](https://github.com/user-attachments/assets/7d8e3fbd-27de-4878-933d-d6177df96494)
+
+![image](https://github.com/user-attachments/assets/47a36db9-1227-4371-94f6-fdc9d402768a)
+
+![image](https://github.com/user-attachments/assets/5a676bec-93c8-436a-8dfe-dbd212ecdcdd)
+
+![image](https://github.com/user-attachments/assets/2152ae94-229c-4dfb-a707-31dae9172805)
+
+
 Using Blender 4.0.0+.
 Blender version features:
 1. Grid based dot placing on ground plane that automatically turn to edges
@@ -12,8 +23,16 @@ Blender version features:
 4. Placing dots while not looking topdown or downtop is not recommended.
 5. Etc?
 
-Issues:
+Blender Issues:
 1. You can't go less than 10 mm in a grid in Blender one, modify script self or give to AI for other improvements (Claude 3.5 is the best one?).
+2. You can't use UI if not closed the shape or cancelled it by 'Escape'.
+3. You can't undo lines like in Unity
+4. You can't close shape, right after undo it, and then redo it. It is lost forever.
+
+Potential Unity Issues:
+1. It tries to recalculate, but the normals are still flipped in some places (?)
+2. Geometry is worse than Blender one, if it was triangulated (?)
+3. (Not checked) Can make redundant vertice in the same spot on closing as it was in early Blender version
 
 The May Be Roadmap:
 1. Make it a full fledge make a low-poly asset for games thing
@@ -22,8 +41,6 @@ The May Be Roadmap:
 4. Make a solid mesh back easily
 5. Proper Auto-UV making unwrapping in the process
 6. All features are toggleable up to the state of classic simplest version
-
-
 
 
 
