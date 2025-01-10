@@ -83,9 +83,8 @@ The "normal" problem:
 
 
 
-Using Blender 4.0.0+
 
-Blender version features:
+Blender version features (For Blender 4.0.0+):
 -
 1. Grid based dot placing on ground plane that automatically turn to edges
 2. Merged in the end with LMB near last point or just by pressing RMB if there is at least 2 dots already
