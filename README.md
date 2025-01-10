@@ -84,7 +84,7 @@ The "normal" problem:
 
 
 
-Blender version features (For Blender 4.0.0+):
+Blender features (For Blender 4.0.0+):
 -
 1. Grid based dot placing on ground plane that automatically turn to edges
 2. Merged in the end with LMB near last point or just by pressing RMB if there is at least 2 dots already
@@ -99,6 +99,11 @@ Blender Issues:
 3. You can't use UI if not closed the shape or cancelled it by 'Escape'.
 4. You can't undo lines like in Unity (and redo too)
 5. Do not go far from scene center, origin is at 0 0 0, if not want to RMB - Set Origin - Origin to Geometry, manually
+
+Unity features:
+-
+1. Comparing to Blender it can undo lines with RMB
+2. Can only make outline without grid snap and close the shape with extrusion
 
 Unity Issues:
 -
@@ -140,7 +145,7 @@ P.S.
 
 Should i separate Unity version so it can be installed via github link thing? Probably there is no sense in doing so with just 1 script.
 
-Now contains 3 Branches (can a branch be installed by link?):
+Now contains 3 Branches (ReadMe in others not updated) (can a branch be installed by link?):
 -
 1. Whole thing
 2. Only Blender
