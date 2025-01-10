@@ -4,6 +4,9 @@ In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulat
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
+Blender instructions:
+1. Download the zip
+2. Open Blender - Edit - Preferences - Addons - Click the \/ - Install from disk - Select zip - Install from disk button
 
 Blender screenshots (the toilet was an accident, don't blame me):
 
