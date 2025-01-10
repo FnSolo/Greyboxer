@@ -98,8 +98,9 @@ Blender Issues:
 2. Extrusion can't be below 10 mm as is the grid.
 3. You can't use UI if not closed the shape or cancelled it by 'Escape'.
 4. You can't undo lines like in Unity (and redo too)
+5. Do not go far from scene center, origin is at 0 0 0, if not want to RMB - Set Origin - Origin to Geometry, manually
 
-Potential Unity Issues:
+Unity Issues:
 -
 1. Yes, normals are madly flipped, especially in sharp meshes.
 2. Geometry is worse than Blender one, if it was triangulated (?)
@@ -114,7 +115,8 @@ The May Be Roadmap:
 4. Separate meshes more easily than default solution
 5. Make a solid mesh back easily
 6. Proper Auto-UV making unwrapping in the process
-7. All features are toggleable up to the state of classic simplest version
+7. Add toggleable origin to geometry on finish (in case it is not made in center)
+8. All features are toggleable up to the state of classic simplest version
 
 Thoughts (This Last section is useless):
 -
