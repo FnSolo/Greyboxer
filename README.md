@@ -1,4 +1,5 @@
-A grid based outline drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
+# 2D To 3D Shape Drawer
+Grid based 2D Outline Drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
 -
 
 In Blender you get a quickly extruded N-Gon (will add a toggle auto a triangulate and tris to quad later).
@@ -19,6 +20,12 @@ Blender main how to use:
 3. Start placing dots that will connect sequentially.
 4. When done close shape on first point or with RMB
 5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
+
+Extra steps:
+
+7. Reference? This 1st is step then, download sideview image.
+
+8. Drag it from your folder to Blender, while looking topdown 2D (Z on axis pressed)
 
 Typical use case (I want an outblock / ugly cow for my 3D Printer to 3D print):
 -
