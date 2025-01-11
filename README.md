@@ -24,7 +24,7 @@ Blender main how to use:
 
 Unity how to use:
 -
-1. Download the zip* (On the right press '+' to see other releases and press it then press "source.zip" to download the project, unzip project folder = same list as on GitHub)*
+1. Download the zip *(On the right press '+' to see other releases and press it then press "source.zip" to download the project, unzip project folder = same list as on GitHub)*
 2. Put the script anywhere in assets folder 
 3. In Unity look upper - Tools - Simple Mesh Extruder
 4. No grid, draw by hand, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
