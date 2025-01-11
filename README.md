@@ -42,6 +42,10 @@ Unity how to use:
 5. RMB undo last line (it can't redo it back)
 6. Close the and generate the shape by pressing first point or generate button
 
+Typical use case:
+-
+Spam bunch of rigidbodies of simple shapes to test out ideas. (the end, use Blender one if want walls in one mesh)
+
 Blender screenshots:
 -
 
@@ -116,6 +120,7 @@ Unity features:
 -
 1. Comparing to Blender it can undo lines with RMB
 2. Can only make outline without grid snap and close the shape with extrusion
+3. Can add a Rigidbody after creation
 
 Unity Issues:
 -
