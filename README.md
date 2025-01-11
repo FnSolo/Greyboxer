@@ -20,7 +20,7 @@ Blender main how to use:
 4. When done close shape on first point or with RMB
 5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
 
-Typical use case (I want an ugly cow for my 3D Printer to 3D print):
+Typical use case (I want an outblock/ugly cow for my 3D Printer to 3D print):
 -
 ![image](https://github.com/user-attachments/assets/dc59544b-4f10-4eaa-89ad-7b237aa0a9f2)
 
