@@ -1,4 +1,3 @@
-# Mesh-Extruder-Blender-Unity-
 A grid based outline drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
 -
 
@@ -20,6 +19,11 @@ Blender main how to use:
 3. Start placing dots that will connect sequentially.
 4. When done close shape on first point or with RMB
 5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
+
+Typical use case (I want an outblock / ugly cow for my 3D Printer to 3D print):
+-
+![image](https://github.com/user-attachments/assets/dc59544b-4f10-4eaa-89ad-7b237aa0a9f2)
+
 
 
 Unity how to use:
@@ -123,6 +127,12 @@ The May Be Roadmap:
 6. Proper Auto-UV making unwrapping in the process
 7. Add toggleable origin to geometry on finish (in case it is not made in center)
 8. All features are toggleable up to the state of classic simplest version
+
+The Great final version goal sketches:
+-
+![The Potential End version](https://github.com/user-attachments/assets/46ec464d-8563-4942-8e3b-b02097b55ac9)
+![image](https://github.com/user-attachments/assets/d5399f66-aaf8-4639-9bf3-f6d7946c9901)
+
 
 Thoughts (This Last section is useless):
 -
