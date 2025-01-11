@@ -2,7 +2,7 @@
 Grid based 2D Outline Drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
 -
 
-In Blender you get a quickly extruded N-Gon (will add a toggleable triangulate + tris to quads later).
+In Blender you get a quickly extruded N-Gon (will add a toggleable triangulate + tris to quads, mirror later).
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
