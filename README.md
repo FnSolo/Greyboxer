@@ -122,7 +122,8 @@ Unity Issues:
 1. Yes, normals are madly flipped, especially in sharp meshes.
 2. Geometry is worse than Blender one, if it was triangulated (?)
 3. (Not checked) Can make redundant vertice in the same spot on closing as it was in early Blender version
-4. Will conflict with same name script, cause doesn't have a namespace.
+4. Origin point is not correct, rotation will be bad without parenting to empty root gO.
+5. Don't replace temporary " " mesh with the saved, you have to do it manually on need
 
 The May Be Roadmap:
 -
