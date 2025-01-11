@@ -124,9 +124,10 @@ The May Be Roadmap:
 7. Add toggleable origin to geometry on finish (in case it is not made in center)
 8. All features are toggleable up to the state of classic simplest version
 
-The Great final version goal sketch:
+The Great final version goal sketches:
 -
 ![The Potential End version](https://github.com/user-attachments/assets/46ec464d-8563-4942-8e3b-b02097b55ac9)
+![image](https://github.com/user-attachments/assets/d5399f66-aaf8-4639-9bf3-f6d7946c9901)
 
 
 Thoughts (This Last section is useless):
