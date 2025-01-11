@@ -124,6 +124,11 @@ The May Be Roadmap:
 7. Add toggleable origin to geometry on finish (in case it is not made in center)
 8. All features are toggleable up to the state of classic simplest version
 
+The Great final version goal sketch:
+-
+![The Potential End version](https://github.com/user-attachments/assets/46ec464d-8563-4942-8e3b-b02097b55ac9)
+
+
 Thoughts (This Last section is useless):
 -
 Probably the Unity one will be deprecated, as Unity doesn't have enough saturated libraries to manipulate meshes.
