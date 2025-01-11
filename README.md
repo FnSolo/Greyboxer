@@ -87,7 +87,7 @@ The "normal" problem:
 Blender features (For Blender 4.0.0+):
 -
 1. Grid based dot placing on ground plane that automatically turn to edges
-2. Merged in the end with LMB near last point or just by pressing RMB if there is at least 2 dots already
+2. Merged in the end with LMB near last point or just by pressing RMB if there is at least 3 dots already
 3. It automatically recalculates normals outside so your shader is not a mess.
 4. Placing dots while not looking topdown or downtop is not recommended.
 5. Etc?
