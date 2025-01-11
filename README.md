@@ -9,7 +9,7 @@ Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
 Blender install instructions:
 -
-1. Download the zip
+1. Download the zip (On the right press '+' to see other releases and press it)
 2. Open Blender - Edit - Preferences - Addons - Click the \/ (its upper right) - Install from disk - Select Blender Mesh Extruder.zip - Install from disk button
 3. Press N or arrow to open default Sidebar (on right) - click Tool - it is below "Workspace" if no other addons.
 
