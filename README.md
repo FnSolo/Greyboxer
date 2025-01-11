@@ -1,4 +1,4 @@
-# 2D To 3D Shape Drawer
+# 2D to 3D Shape Drawer
 Grid based 2D Outline Drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
 -
 
