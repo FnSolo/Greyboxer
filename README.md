@@ -1,4 +1,3 @@
-# Mesh-Extruder-Blender-Unity-
 A grid based outline drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
 -
 
@@ -20,6 +19,10 @@ Blender main how to use:
 3. Start placing dots that will connect sequentially.
 4. When done close shape on first point or with RMB
 5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
+
+Typical use case (I want an ugly cow for my 3D Printer to 3D print):
+![image](https://github.com/user-attachments/assets/dc59544b-4f10-4eaa-89ad-7b237aa0a9f2)
+
 
 
 Unity how to use:
