@@ -9,7 +9,7 @@ Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
 Blender install instructions:
 -
-1. Download the zip (On the right press '+' to see other releases and press it)
+1. Download the zip *(On the right press '+' to see other releases and press it then press "source.zip" to download the project, unzip project folder = same list as on GitHub)*
 2. Open Blender - Edit - Preferences - Addons - Click the \/ (its upper right) - Install from disk - Select Blender Mesh Extruder.zip - Install from disk button
 3. Press N or arrow to open default Sidebar (on right) - click Tool - it is below "Workspace" if no other addons.
 
@@ -24,11 +24,12 @@ Blender main how to use:
 
 Unity how to use:
 -
-1. Put the script anywhere in assets folder
-2. Look upper - Tools - Simple Mesh Extruder
-3. No grid, draw by hand, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
-4. RMB undo last line (it can't redo it back)
-5. Close the and generate the shape by pressing first point or generate button
+1. Download the zip* (On the right press '+' to see other releases and press it then press "source.zip" to download the project, unzip project folder = same list as on GitHub)*
+2. Put the script anywhere in assets folder 
+3. In Unity look upper - Tools - Simple Mesh Extruder
+4. No grid, draw by hand, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
+5. RMB undo last line (it can't redo it back)
+6. Close the and generate the shape by pressing first point or generate button
 
 Blender screenshots:
 -
