@@ -21,7 +21,9 @@ Blender main how to use:
 5. Be careful with default Blender undo system, as if you mixed action in it, it can't redo.
 
 Extra steps:
+
 7. Reference? This 1st is step then, download sideview image.
+
 8. Drag it from your folder to Blender, while looking topdown 2D (Z on axis pressed)
 
 Typical use case (I want an outblock / ugly cow for my 3D Printer to 3D print):
