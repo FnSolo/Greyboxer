@@ -4,7 +4,8 @@ Grid based 2D outline drawer *on Z plane in Blender & Advanced* and a *RAW one i
 BRAND NEW V1.1 BLOOD AND PAIN EARNED! (The last thing you see from me, probably...)
 -
 ![image](https://github.com/user-attachments/assets/0b0fbc81-dfde-4367-9007-dc91b547109d)
-
+Old description:
+-
 
 In Blender you get a quickly extruded N-Gon (will add a toggleable triangulate + tris to quads, if still needed, on export it will triangulate itself anyways, at least in .glb).
 
