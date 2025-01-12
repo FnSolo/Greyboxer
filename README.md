@@ -1,8 +1,12 @@
-# 2D to 3D Shape Drawer
-Grid based 2D Outline Drawer *on ground plane in Blender* and a *raw one in 2D Window* for Unity.
+# Greyboxer - a 2D to 3D shape drawer. Spamming walls/segmented, roofs and floors in Blender never been faster!
+Grid based 2D outline drawer *on Z plane in Blender & Advanced* and a *RAW one in 2D Window* for Unity.
 -
+BRAND NEW V1.1 BLOOD AND PAIN EARNED! (The last thing you see from me, probably...)
+-
+![image](https://github.com/user-attachments/assets/0b0fbc81-dfde-4367-9007-dc91b547109d)
 
-In Blender you get a quickly extruded N-Gon (will add a toggleable triangulate + tris to quads, mirror later).
+
+In Blender you get a quickly extruded N-Gon (will add a toggleable triangulate + tris to quads, if still needed, on export it will triangulate itself anyways, at least in .glb).
 
 Is it better than to do defaultly it from scratch with hotkeys? Let me know.
 
