@@ -3,7 +3,7 @@ Unity how to use:
 1. Download the zip *(Just download main latest relase or on the right press '+' to see other releases and press it then press "source.zip" to download the project, unzip project folder = same list as on GitHub)*
 2. Put the script anywhere in assets folder 
 3. In Unity look upper - Tools - Simple Mesh Extruder
-4. No grid, draw by hand, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
+4. No grid, draw lines by hand with clicks, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
 5. RMB undo last line (it can't redo it back)
 6. Close the and generate the shape by pressing first point or generate button
 
