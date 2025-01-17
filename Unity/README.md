@@ -11,7 +11,7 @@ Typical use case:
 -
 Spam bunch of rigidbodies of simple shapes to test out ideas. (the end, use Blender one if want walls in one mesh)
 
-## Screenshots:
+###### Screenshots:
 
 ![image](https://github.com/user-attachments/assets/dd4ba2c3-4421-4d66-a031-aa04d5dc2d61)
 
