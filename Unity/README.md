@@ -10,3 +10,17 @@ Unity how to use:
 Typical use case:
 -
 Spam bunch of rigidbodies of simple shapes to test out ideas. (the end, use Blender one if want walls in one mesh)
+
+Screenshots:
+-
+
+![image](https://github.com/user-attachments/assets/dd4ba2c3-4421-4d66-a031-aa04d5dc2d61)
+
+More recent screenshot of same version showing where to find it:
+-
+![image](https://github.com/user-attachments/assets/d825bb8d-eb41-48eb-908a-199a8ef31fa7)
+
+The "normal" problem:
+-
+![image](https://github.com/user-attachments/assets/53a15831-030a-4046-a581-f17b9f23eb88)
+
