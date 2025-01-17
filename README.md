@@ -1,6 +1,6 @@
 Indexer:
 -
-1. [Main Blender V1.1 Addon With Cheatsheet](Greyboxer/Blender)
+1. [Main Blender V1.1 Addon + cheat sheet + quick paint tool](Greyboxer/Blender)
 
 2. [Awful Unity V0.1 script, but useful to spam normal flipped Rb's of simple forms](Greyboxer/Unity)
 
