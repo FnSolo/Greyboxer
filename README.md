@@ -27,3 +27,16 @@ All ON showcase:
 ![image](https://github.com/user-attachments/assets/046d93fc-2a9c-4614-a013-ca3da6d457c0)
 
 ------------------------------------------------------------------------------------------------------------------
+
+# Unity v0.1 screenshots:
+
+![image](https://github.com/user-attachments/assets/dd4ba2c3-4421-4d66-a031-aa04d5dc2d61)
+
+More recent screenshot of same version showing where to find it:
+-
+![image](https://github.com/user-attachments/assets/d825bb8d-eb41-48eb-908a-199a8ef31fa7)
+
+The "normal" problem:
+-
+![image](https://github.com/user-attachments/assets/53a15831-030a-4046-a581-f17b9f23eb88)
+
