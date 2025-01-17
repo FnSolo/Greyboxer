@@ -19,3 +19,5 @@ Extra steps:
 
 Typical use case (I want an outblock / ugly cow for my 3D Printer to 3D print):
 image
+-
+![image](https://github.com/user-attachments/assets/dc59544b-4f10-4eaa-89ad-7b237aa0a9f2)
