@@ -5,7 +5,7 @@ Unity how to use:
 3. In Unity look upper - Tools - Simple Mesh Extruder
 4. No grid, draw lines by hand with clicks, decrease your mouse DPI to 200 to achieve "mirrored" effect if needed.
 5. RMB undo last line (it can't redo it back)
-6. Close the and generate the shape by pressing first point or generate button
+6. Close the and generate the shape by pressing first placed point or generate button
 
 Typical use case:
 -
