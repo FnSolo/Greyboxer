@@ -167,9 +167,8 @@ Or it will await when Blender one will be finished, to ask AI chat to remake (wi
 
 
 
-
-
-
+Deprecated section:
+-
 Extra:
 
 You are dead after fixing AI bugs and fixing Python identations, because your VSC flickers, as is it does the Upscayl when you upscaled your image. (Updated Windows 10, it fixed)
