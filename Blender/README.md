@@ -17,7 +17,13 @@ Extra steps:
 
 2. Drag it from your folder to Blender, while looking topdown 2D (Z on axis pressed)
 
+OLD:
 Typical use case (I want an outblock / ugly cow for my 3D Printer to 3D print):
 image
 -
 ![image](https://github.com/user-attachments/assets/dc59544b-4f10-4eaa-89ad-7b237aa0a9f2)
+
+NEW:
+All ON showcase:
+-
+![image](https://github.com/user-attachments/assets/046d93fc-2a9c-4614-a013-ca3da6d457c0)
