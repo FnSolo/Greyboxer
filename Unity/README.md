@@ -9,7 +9,7 @@ Unity how to use:
 
 Typical use case:
 -
-Spam bunch of rigidbodies of simple shapes to test out ideas. (the end, use Blender one if want walls in one mesh)
+Spam bunch of rigidbodies of simple shapes to test out ideas. (the end, use Blender one if want proper walls in one mesh)
 
 # Screenshots:
 
