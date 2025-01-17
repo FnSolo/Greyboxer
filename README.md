@@ -13,7 +13,7 @@
                 
 -----------------------------------------------------------------------------------------------------------------
 
-# Greyboxer - a 2D to 3D shape drawer. Spamming walls/segmented, roofs and floors in Blender never been faster!
+Greyboxer - a 2D to 3D shape drawer. Spamming walls/segmented, roofs and floors in Blender never been faster!
 Grid based 2D outline drawer *on Z plane in Blender & Advanced* and a *RAW one in 2D Window* for Unity.
 -
 BRAND NEW V1.1 BLOOD AND PAIN EARNED! (The last thing you see from me, probably...)
