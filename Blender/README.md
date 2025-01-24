@@ -1,3 +1,6 @@
+Unstable v. safety measures:
+Disable original addon, reboot Blender, enable the Unstable one.
+
 Blender install instructions:
 -
 1. Download the zip (On the right press '+' to see other releases and press it then press "source.zip" to download the project, unzip project folder = same list as on GitHub)
