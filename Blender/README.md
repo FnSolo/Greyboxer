@@ -1,4 +1,4 @@
-Unstable v. safety measures:
+Unstable version unnecessary safety measures:
 
 Disable original addon, reboot Blender, enable the Unstable one.
 
