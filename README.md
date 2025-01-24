@@ -19,7 +19,7 @@ Greyboxer - a 2D to 3D shape drawer.
 Spamming walls/segmented, roofs and floors in Blender have never been faster!
 Increment (can be turned off) based 2D outline drawer *on Z plane in Blender & Advanced* and a *RAW one in 2D Window* for Unity.
 
-BRAND NEW V1.1 BLOOD AND PAIN EARNED! (Soon a UV quick face paint solution!)
+BRAND NEW V1.1 BLOOD AND PAIN EARNED!
 -
 ![image](https://github.com/user-attachments/assets/0b0fbc81-dfde-4367-9007-dc91b547109d)
 
