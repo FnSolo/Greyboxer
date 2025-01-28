@@ -1,3 +1,4 @@
+# This version bugs, when deleting default cube... Only for core code quick read!
 bl_info = {
     "description": "ESC: Cancel. Pages: Height change",
     "name": "Greyboxer",
