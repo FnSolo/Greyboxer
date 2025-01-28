@@ -42,3 +42,4 @@ The "normal" problem:
 -
 ![image](https://github.com/user-attachments/assets/53a15831-030a-4046-a581-f17b9f23eb88)
 
+#Blender #Addon #add-on
