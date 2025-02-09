@@ -19,6 +19,10 @@ Greyboxer - a 2D to 3D shape drawer.
 Spamming walls/segmented, roofs and floors in Blender have never been faster!
 Increment (can be turned off) based 2D outline drawer *on Z plane in Blender & Advanced* and a *RAW one in 2D Window* for Unity.
 
+**Lacks:**
+1. Merge by distance if you want to close walls in edge mode. (well, still faster to use probuilder and its easy to do by Tab, Z to X-ray, select them, M - merge by distance)
+2. Undo/redo functionality
+
 BRAND NEW V1.1 BLOOD AND PAIN EARNED!
 -
 ![image](https://github.com/user-attachments/assets/0b0fbc81-dfde-4367-9007-dc91b547109d)
