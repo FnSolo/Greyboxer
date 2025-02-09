@@ -24,7 +24,7 @@ Increment (can be turned off) based 2D outline drawer *on Z plane in Blender & A
 2. Undo/redo when placing dots.
 
 P.S.
-My new cheap chinese keyboard doesn't support all 3 press of ctrl shift z on the left side only, what an idiotism... Guess reverting to rapoo with doubling J...
+My new cheap chinese no-name keyboard doesn't support all 3 press of ctrl shift z on the left side only, what an idiotism... Guess reverting to rapoo with doubling J...
 
 BRAND NEW V1.1 BLOOD AND PAIN EARNED!
 -
