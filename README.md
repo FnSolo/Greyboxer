@@ -21,7 +21,7 @@ Increment (can be turned off) based 2D outline drawer *on Z plane in Blender & A
 
 **Lacks:**
 1. Merge by distance if you want to close walls in edge mode. (well, still faster than to use probuilder and its easy to do by Tab, Z to X-ray, select them, M - merge by distance)
-2. Undo/redo functionality
+-2. Undo/redo functionality-
 3. Damn, can't redo the object, but can undo it, lol. (ah, it seems its yet another missed addon bug, _but not fixed_, the redo doesn't work at all on anything now, relaunching Blender.. (the edit one with mouse clicks works, though))
 
 BRAND NEW V1.1 BLOOD AND PAIN EARNED!
